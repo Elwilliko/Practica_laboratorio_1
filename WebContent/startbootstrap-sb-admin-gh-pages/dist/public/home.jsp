@@ -42,7 +42,7 @@
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
                       
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="login.jsp">Log in</a>
+                        <a class="dropdown-item" href="/Practica_laboratorio_1/startbootstrap-sb-admin-gh-pages/dist/public/login.jsp">Log in</a>
                     </div>
                 </li>
             </ul>
